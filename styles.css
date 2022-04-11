@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: karla;
+}
+body {
+    padding: 10px;
+    background-color: #E6EFF6;
+    display: flex;
+    font-size: 16px;
+    margin-top: 50px;
+    font-weight: 500;
+}
+.all {
+    margin: 0 auto;
+}
+.head {
+    padding: 20px;
+    background-color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.head h3 {
+    color: #E1F18E;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+.head p {
+    color: #D9DEE4;
+    padding-bottom: 15px;
+}
+h2 {
+    color: #3FB9B1;
+}
+.foot {
+   display: flex;
+}
+.month {
+    padding: 25px;
+    background-color: #2BB3B1;
+    color: white;
+    border-bottom-left-radius: 8px;
+}
+.month h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.month h1 {
+    padding-bottom: 8px;
+}
+.month p {
+    padding-bottom: 25px;
+}
+span {
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-weight: lighter;
+    font-size: small;
+}
+button {
+    color: white;
+    background-color: #BFDF32;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.why {
+    padding: 25px;
+    background-color: #4ABEBD;
+    color: white;
+    padding-right: 50px;
+    line-height: 20px;
+    border-bottom-right-radius: 8px;
+}
+.why h3 {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
